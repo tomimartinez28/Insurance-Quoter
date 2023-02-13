@@ -1,10 +1,9 @@
 body {
-    background: #e96443;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #904e95, #e96443);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsl(296, 31%, 45%), #e96443); 
+    background: #cfd8dc;  /* Chrome 10-25, Safari 5.1-6 */
+    background: #cfd8dc; 
 }
 .btn.btn-raised.btn-primary {
-    background-color: #00838F!important;
+    background-color: #cfd8dc!important;
     font-size: 16px;
     width: 100%;
     padding: 15px;
